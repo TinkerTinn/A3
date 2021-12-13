@@ -4,6 +4,7 @@
   "description": "An API for galleries.",
   "main": "art-api.js",
   "scripts": {
+    "start": "node app"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
